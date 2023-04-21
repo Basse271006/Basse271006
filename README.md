@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magnus</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">En ung knægt på 16 år.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basse271006&label=Profile%20views&color=0e75b6&style=flat" alt="basse271006" /> </p>
 
